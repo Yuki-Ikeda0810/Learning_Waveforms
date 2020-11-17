@@ -7,7 +7,7 @@ import torch
 import torch.nn as nn
 
 # 定義した畳み込みニューラルネットワークを読み込む
-import test10_model
+import learning_model
 
 # 行列計算
 import numpy as np
