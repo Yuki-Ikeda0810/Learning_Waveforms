@@ -8,7 +8,7 @@ import torch
 import torch.nn as nn
 
 # 定義した畳み込みニューラルネットワークを読み込む
-import test10_model
+import learning_model
 
 # 損失関数と最適化アルゴリズムを定義する
 import torch.optim as optim
